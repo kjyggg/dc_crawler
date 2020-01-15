@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="637fc63c-5029-4fd4-af93-9d5b6a2fa133" name="Default Changelist" comment="" />
+    <list default="true" id="637fc63c-5029-4fd4-af93-9d5b6a2fa133" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/crawlers/bigkinds/bigkinds_crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawlers/bigkinds/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -57,30 +61,52 @@
       <option name="presentableId" value="Default" />
       <updated>1579068152082</updated>
     </task>
+    <task id="LOCAL-00001" summary="dadsdas">
+      <created>1579069587879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579069587879</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete">
+      <created>1579069686792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579069686792</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dadsdas" />
+    <MESSAGE value="delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2372" y="95" key="#Notifications" timestamp="1579069163331">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2372" y="95" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579069163331" />
-    <state x="541" y="47" key="CommitChangelistDialog2" timestamp="1579069586474">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2461" y="47" key="CommitChangelistDialog2" timestamp="1579069685766">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="541" y="47" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579069586474" />
+    <state x="2461" y="47" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579069685766" />
     <state x="2609" y="217" key="FileChooserDialogImpl" timestamp="1579068713045">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2609" y="217" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579068713045" />
-    <state x="2272" y="77" key="SettingsEditor" timestamp="1579069300288">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2272" y="77" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579069300288" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1579069597819">
+    <state x="352" y="77" key="SettingsEditor" timestamp="1579072246167">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="352" y="77" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579072246167" />
+    <state x="2272" y="77" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579069300288" />
+    <state x="2372" y="188" key="Vcs.Push.Dialog.v2" timestamp="1579069736223">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
     <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579069597819" />
-    <state x="2372" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579069234076" />
+    <state x="2372" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579069736223" />
     <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579068351364">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
