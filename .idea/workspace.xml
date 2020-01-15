@@ -64,10 +64,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2372" y="95" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579069163331" />
-    <state x="541" y="47" key="CommitChangelistDialog2" timestamp="1579069573792">
+    <state x="541" y="47" key="CommitChangelistDialog2" timestamp="1579069586474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="541" y="47" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579069573792" />
+    <state x="541" y="47" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579069586474" />
     <state x="2609" y="217" key="FileChooserDialogImpl" timestamp="1579068713045">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -76,9 +76,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2272" y="77" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579069300288" />
-    <state x="2372" y="188" key="Vcs.Push.Dialog.v2" timestamp="1579069234076">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1579069597819">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579069597819" />
     <state x="2372" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579069234076" />
     <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579068351364">
       <screen x="1920" y="0" width="1920" height="1040" />
