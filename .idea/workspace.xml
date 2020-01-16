@@ -24,6 +24,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="22417138-a637-485e-9c6b-3f5a70fab17c" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="66" />
+    <option name="y" value="102" />
+    <option name="width" value="1263" />
+    <option name="height" value="865" />
+  </component>
   <component name="ProjectId" id="1WQ3mf0ik96lEyzULxHEQ1tt9qd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
